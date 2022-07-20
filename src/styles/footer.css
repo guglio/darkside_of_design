@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: #808080;
+}
+
+.footer-link {
+  cursor: pointer;
+}

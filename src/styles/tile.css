@@ -1,0 +1,44 @@
+.tile-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.tile {
+  display: block;
+  color: azure;
+  width: 46%;
+  padding-bottom: 46%;
+  margin-bottom: 8%;
+  position: relative;
+}
+.tile:hover .tile-text-wrapper {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.tile-text-wrapper {
+  transition: opacity 0.5s ease-out;
+  opacity: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+.tile-text-content {
+  display: flex;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  z-index: 1;
+}
+.tile-image {
+  display: block;
+  width: auto;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -999;
+}

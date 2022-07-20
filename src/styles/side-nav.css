@@ -1,0 +1,44 @@
+/* TODO: check for dusplicates classes */
+
+.side-nav-wrapper {
+  width: 24%;
+  margin-right: 3%;
+}
+.side-nav-content {
+  width: 80%;
+  margin: 0 auto;
+}
+.nav-link {
+  text-decoration: none;
+  color: var(--navbar-regular-color);
+  font-size: var(--navbar-font-size);
+  padding-bottom: 10px;
+  display: block;
+  line-height: var(--navbar-line-height);
+}
+.nav-link:hover {
+  color: var(--navbar-hover-color);
+  text-decoration: underline;
+}
+.active-nav {
+  font-weight: bold;
+  color: var(--navbar-active-color);
+  text-decoration: underline;
+}
+.header-link {
+  display: block;
+  font-weight: bold;
+  color: var(--navbar-active-color);
+  margin-bottom: 55px;
+  font-size: var(--regular-font-size);
+  line-height: var(--regular-line-height);
+  width: min-content;
+}
+.header-link:hover {
+  text-decoration: underline;
+}
+.nav-link-projects {
+  padding-bottom: 20px;
+  font-size: var(--regular-font-size);
+  line-height: var(--regular-line-height);
+}
