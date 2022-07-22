@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/darkside_of_design/static/css/main.d0f00457.css",
-    "main.js": "/darkside_of_design/static/js/main.43d799ca.js",
+    "main.css": "/darkside_of_design/static/css/main.fafb31d9.css",
+    "main.js": "/darkside_of_design/static/js/main.f9bc2b91.js",
     "static/js/787.de693ef5.chunk.js": "/darkside_of_design/static/js/787.de693ef5.chunk.js",
     "static/media/drive_hyperion_22.png": "/darkside_of_design/static/media/drive_hyperion_22.a65afa9c2f5e97c05ed2.png",
     "static/media/bathtubs_snakes_and_wannacry_oh_my.png": "/darkside_of_design/static/media/bathtubs_snakes_and_wannacry_oh_my.4b5e69173512ace79685.png",
     "static/media/gtc_ai_conference_11_21.png": "/darkside_of_design/static/media/gtc_ai_conference_11_21.da5e185fa69d416528cc.png",
-    "static/media/ai_and_robotics.png": "/darkside_of_design/static/media/ai_and_robotics.a49ec4f4a48abb8eb0f2.png",
     "static/media/autonomous_driving.png": "/darkside_of_design/static/media/autonomous_driving.a49ec4f4a48abb8eb0f2.png",
     "static/media/pabellon_de_ecuador.png": "/darkside_of_design/static/media/pabellon_de_ecuador.4635a0a0db8b25c159ec.png",
     "static/media/mcafee_brand_b2c.png": "/darkside_of_design/static/media/mcafee_brand_b2c.c58f8e3639b8a42baea0.png",
@@ -29,20 +28,21 @@
     "static/media/our_journey_together.png": "/darkside_of_design/static/media/our_journey_together.94c1decd1545448ca9fe.png",
     "static/media/xdr_campaign.png": "/darkside_of_design/static/media/xdr_campaign.cec69a05f677f482ffca.png",
     "static/media/here_s_an_idea.png": "/darkside_of_design/static/media/here_s_an_idea.72cdffa5d3479c97eeec.png",
+    "static/media/ai_and_robotics.gif": "/darkside_of_design/static/media/ai_and_robotics.664b2db8af1289c27d01.gif",
     "static/media/insights_dashboard.jpeg": "/darkside_of_design/static/media/insights_dashboard.c9d151350d34736188e4.jpeg",
-    "static/media/d2c2_campaign.jpg": "/darkside_of_design/static/media/d2c2_campaign.b7a011d5a333d8fd5674.jpg",
     "static/media/the_website_development_process.jpg": "/darkside_of_design/static/media/the_website_development_process.17093da29cfc54545750.jpg",
-    "static/media/siliconless.jpg": "/darkside_of_design/static/media/siliconless.6e95bff69b125c4e1abd.jpg",
+    "static/media/siliconless.jpg": "/darkside_of_design/static/media/siliconless.7a8d1d96cbe9a4d0cd55.jpg",
     "static/media/gtc_ai_conference_03_22.jpg": "/darkside_of_design/static/media/gtc_ai_conference_03_22.be7a328e3fca2448fc4e.jpg",
+    "static/media/d2c2_campaign.jpg": "/darkside_of_design/static/media/d2c2_campaign.0cd5aad84309bee79f33.jpg",
     "static/media/mfe_architecture.jpg": "/darkside_of_design/static/media/mfe_architecture.e6377ff3ffe6f963034d.jpg",
     "static/media/quantum_computing.jpeg": "/darkside_of_design/static/media/quantum_computing.36e8ccaf3bafdbbd4806.jpeg",
     "index.html": "/darkside_of_design/index.html",
-    "main.d0f00457.css.map": "/darkside_of_design/static/css/main.d0f00457.css.map",
-    "main.43d799ca.js.map": "/darkside_of_design/static/js/main.43d799ca.js.map",
+    "main.fafb31d9.css.map": "/darkside_of_design/static/css/main.fafb31d9.css.map",
+    "main.f9bc2b91.js.map": "/darkside_of_design/static/js/main.f9bc2b91.js.map",
     "787.de693ef5.chunk.js.map": "/darkside_of_design/static/js/787.de693ef5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0f00457.css",
-    "static/js/main.43d799ca.js"
+    "static/css/main.fafb31d9.css",
+    "static/js/main.f9bc2b91.js"
   ]
 }
