@@ -13,11 +13,12 @@
 }
 .tile:hover .tile-text-wrapper {
   opacity: 1;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.75);
 }
 .tile-text-wrapper {
-  transition: opacity 0.5s ease-out;
+  transition: opacity 0.3s ease-out;
   opacity: 0;
+  color: var(--body-background-color);
   position: absolute;
   height: 100%;
   width: 100%;

@@ -31,7 +31,7 @@ import mpower_19 from './mpower_19.jpg';
 import cybercast from './cybercast.png';
 import pabellon_de_ecuador from './pabellon_de_ecuador.png';
 import the_website_development_process from './the_website_development_process.jpg';
-import ai_and_robotics from './ai_and_robotics.png';
+import ai_and_robotics from './ai_and_robotics.gif';
 
 export {
   gtc_ai_conference_03_22,
