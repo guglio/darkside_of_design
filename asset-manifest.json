@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/darkside_of_design/static/css/main.fafb31d9.css",
-    "main.js": "/darkside_of_design/static/js/main.f9bc2b91.js",
+    "main.css": "/darkside_of_design/static/css/main.c7edd881.css",
+    "main.js": "/darkside_of_design/static/js/main.bbdffacd.js",
     "static/js/787.de693ef5.chunk.js": "/darkside_of_design/static/js/787.de693ef5.chunk.js",
     "static/media/drive_hyperion_22.png": "/darkside_of_design/static/media/drive_hyperion_22.a65afa9c2f5e97c05ed2.png",
     "static/media/bathtubs_snakes_and_wannacry_oh_my.png": "/darkside_of_design/static/media/bathtubs_snakes_and_wannacry_oh_my.4b5e69173512ace79685.png",
@@ -37,12 +37,12 @@
     "static/media/mfe_architecture.jpg": "/darkside_of_design/static/media/mfe_architecture.e6377ff3ffe6f963034d.jpg",
     "static/media/quantum_computing.jpeg": "/darkside_of_design/static/media/quantum_computing.36e8ccaf3bafdbbd4806.jpeg",
     "index.html": "/darkside_of_design/index.html",
-    "main.fafb31d9.css.map": "/darkside_of_design/static/css/main.fafb31d9.css.map",
-    "main.f9bc2b91.js.map": "/darkside_of_design/static/js/main.f9bc2b91.js.map",
+    "main.c7edd881.css.map": "/darkside_of_design/static/css/main.c7edd881.css.map",
+    "main.bbdffacd.js.map": "/darkside_of_design/static/js/main.bbdffacd.js.map",
     "787.de693ef5.chunk.js.map": "/darkside_of_design/static/js/787.de693ef5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fafb31d9.css",
-    "static/js/main.f9bc2b91.js"
+    "static/css/main.c7edd881.css",
+    "static/js/main.bbdffacd.js"
   ]
 }
